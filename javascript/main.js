@@ -3,7 +3,7 @@ function carga() {
 }
 
 function mouDentro() {
-     document.getElementById(alert("Estas dentro"));
+     document.getElementById(alert("Estas dentro :)"));
 }
 
 function mouFuera(){
